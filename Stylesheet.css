@@ -7,9 +7,12 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-decoration-color: white;
+    font-family:Arial;
+    font-size: large;
 }
 
 p{
     color:white;
     text-align:center;
+    
 }
