@@ -40,7 +40,7 @@ p{
     text-align: center;
     font-size: 300%;
     letter-spacing: 1px;
-    border:3px solid #ff9e00;
+    border:3px solid white;
     position:absolute;
     top: 70%;
     left: 50%;
@@ -55,7 +55,7 @@ section{
     background: linear-gradient(-45deg, #ff6d00, #ff8500, #ff9e00, #240046, #3c096c, #5a189a);
     background-size: 400% 400%;
     position: relative;
-    animation: change 15s ease-in-out infinite;
+    animation: change 17s ease-in-out infinite;
 }
 
 .gradient{
@@ -173,5 +173,5 @@ button div a{
 
 .back{
     top: 4%;
-    left: 36%;
+    left:36%;
 }
